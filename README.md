@@ -1,5 +1,6 @@
 # Embedded-Modeling
-Embedding System Modeling using the Canny Edge Detector
+Embedding System Modeling using the Canny Edge Detector. Modeled in SpecC.
+
 Versions
 - canny.c : The original Canny Edge Detector by Mike Heath, with a bug fix of fixing a off-by-1 error in non_max_supp.
 - canny_testonly.cpp : Performance estimation of the Canny Edge Detector.
